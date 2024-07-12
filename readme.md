@@ -38,4 +38,13 @@ Dan the cactus (RIP) fills in as an avatar on sites like this. If you see Dan on
 
 <img src="./dans-usual-profile-photo.jpg" width="200" >
 
+
+### Is this a personal web site? Or just like a GitHub README page?
+
+It's both. 
+
+As of this writing https://dan.fritch.mn redirects to here.  
+For many years it had been a custom site, with custom styling and various build flows and languages and tools, and I got tired of it. GitHub's markdown styling and rendering works just great for stuff like this thanks. 
+
 ---
+

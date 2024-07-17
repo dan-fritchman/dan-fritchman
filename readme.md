@@ -5,7 +5,7 @@
 
 ---
 
-I had recent occassion to write down most of what I had been doing for the past few years, in the form of a PhD dissertation, [An Integrated Circuit Design Framework for Human, Computer, and ML Designers](https://bit.ly/dans-phd-thesis). That includes lots of thoughts about our field, its future, and related hot takes. It has been lauded as "actually kinda good" and "not boring" and "how I (the reader) used to write before there was ChatGPT", even by non-nerds. If you are a non-nerd, I recommend the prologue and first chapter or two. (I suspect the quoted reviewers stopped there.) Only those with a shared special breed of nerdery of will care to read to the end.
+I had recent occasion to write down most of what I had been doing for the past few years, in the form of a PhD dissertation, [An Integrated Circuit Design Framework for Human, Computer, and ML Designers](https://bit.ly/dans-phd-thesis). That includes lots of thoughts about our field, its future, and related hot takes. It has been lauded as "actually kinda good" and "not boring" and "how I (the reader) used to write before there was ChatGPT", even by non-nerds. If you are a non-nerd, I recommend the prologue and first chapter or two. (I suspect the quoted reviewers stopped there.) Only those with a shared special breed of nerdery of will care to read to the end.
 
 ## Projects
 
